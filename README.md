@@ -39,9 +39,13 @@ Arquiteta e Urbanista (Estácio, 2019) em transição de carreira para o desenvo
 
 <br>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=thaianegabrielle&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=thaianegabrielle&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thaianegabrielle&layout=compact&theme=dark)
+| My GitHub Stats | GitHub Streak |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats-fast.vercel.app/api?username=thaianegabrielle&show_icons=true&theme=dark) | ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=thaianegabrielle&theme=dark) |
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thaianegabrielle&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 
 ---
 
